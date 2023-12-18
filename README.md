@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**helpingwizard/helpingwizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tanish Charthankar, a passionate learner and developer.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- 🌐 Mastering the MERN stack with a focus on Next.js and TypeScript.
+- 💡 Enhancing problem-solving skills through Data Structures and Algorithms.
+- ⛓ Exploring the fascinating world of blockchain technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Learning
+- Currently delving deep into the intricacies of MERN, Next.js, TypeScript, and DSA.
+
+## 🔗 Connect with Me
+- 📧 Email: vctanish7@gmail.com
+- 🐦 Twitter: [@tanish1207](https://twitter.com/tanish1207)
+
+
+Feel free to explore my repositories and connect. Let's code and learn together! 🚀

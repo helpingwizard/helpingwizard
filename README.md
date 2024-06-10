@@ -9,5 +9,5 @@
 * 📫 How to reach me: vctanish7@gmail.com, tanish1207(twitter)
 * ❤️ I love travelling
   <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hey%20there"/>
 </p

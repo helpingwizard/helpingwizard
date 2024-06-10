@@ -8,7 +8,6 @@
 * 💬 Ask me about Tech, Geopolitics and history
 * 📫 How to reach me: vctanish7@gmail.com, tanish1207(twitter)
 * ❤️ I love travelling
-  
-<p align="center">
+  <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+</p

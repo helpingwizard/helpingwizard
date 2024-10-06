@@ -23,6 +23,7 @@ I'm passionate about building robust backend systems and streamlining deployment
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
 ### 📈 GitHub Stats
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=helpingwizard)](https://github.com/LordDashMe/github-contribution-stats/)
 [![GitHub Streak](https://streak-stats.demolab.com?user=helpingwizard&theme=dark)](https://git.io/streak-stats)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=helpingwizard&show_icons=true&theme=dracula)
 

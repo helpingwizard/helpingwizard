@@ -24,7 +24,7 @@ I'm passionate about building robust backend systems and streamlining deployment
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dracula)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=helpingwizard&show_icons=true&theme=dracula)
 
 ### 🔥 Recent Projects
 

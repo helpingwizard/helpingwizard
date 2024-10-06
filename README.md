@@ -23,7 +23,7 @@ I'm passionate about building robust backend systems and streamlining deployment
 ![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
 
 ### 📈 GitHub Stats
-
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hepingwizard&theme=dark" alt="GitHub Streak" /></a>
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=helpingwizard&show_icons=true&theme=dracula)
 
 ### 🔥 Recent Projects
